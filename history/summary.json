@@ -4,18 +4,20 @@
     "url": "https://cal.howdy.care",
     "icon": "https://icons.duckduckgo.com/ip3/cal.howdy.care.ico",
     "slug": "cal-com-howdy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 939,
-    "timeDay": 939,
-    "timeWeek": 939,
-    "timeMonth": 939,
-    "timeYear": 939,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "85.42%",
+    "uptimeDay": "85.42%",
+    "uptimeWeek": "85.42%",
+    "uptimeMonth": "85.42%",
+    "uptimeYear": "85.42%",
+    "time": 10084,
+    "timeDay": 10084,
+    "timeWeek": 10084,
+    "timeMonth": 10084,
+    "timeYear": 10084,
+    "dailyMinutesDown": {
+      "2025-12-05": 48
+    }
   },
   {
     "name": "Production portal backend",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-ne1.worklifebarometer.com.ico",
     "slug": "production-portal-backend",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 431,
     "timeDay": 431,
     "timeWeek": 431,
     "timeMonth": 431,
     "timeYear": 431,
     "dailyMinutesDown": {
-      "2025-12-05": 218
+      "2025-12-05": 266
     }
   },
   {
@@ -54,7 +56,7 @@
     "timeMonth": 75,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2025-12-05": 218
+      "2025-12-05": 266
     }
   },
   {
@@ -92,7 +94,7 @@
     "timeMonth": 446,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2025-12-05": 218
+      "2025-12-05": 266
     }
   },
   {
@@ -112,7 +114,7 @@
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2025-12-05": 218
+      "2025-12-05": 266
     }
   },
   {
