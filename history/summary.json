@@ -4,7 +4,7 @@
     "url": "https://cal.howdy.care",
     "icon": "https://icons.duckduckgo.com/ip3/cal.howdy.care.ico",
     "slug": "cal-com-howdy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-ne1.worklifebarometer.com.ico",
     "slug": "production-portal-backend",
     "status": "down",
-    "uptime": "1.59%",
-    "uptimeDay": "1.59%",
-    "uptimeWeek": "1.59%",
-    "uptimeMonth": "1.59%",
-    "uptimeYear": "1.59%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 431,
     "timeDay": 431,
     "timeWeek": 431,
     "timeMonth": 431,
     "timeYear": 431,
     "dailyMinutesDown": {
-      "2025-12-05": 0
+      "2025-12-05": 218
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-ne1.worklifebarometer.com.ico",
     "slug": "production-portal-performance-test",
     "status": "down",
-    "uptime": "3.35%",
-    "uptimeDay": "3.35%",
-    "uptimeWeek": "3.35%",
-    "uptimeMonth": "3.35%",
-    "uptimeYear": "3.35%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 75,
     "timeDay": 75,
     "timeWeek": 75,
     "timeMonth": 75,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2025-12-05": 0
+      "2025-12-05": 218
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wlb-uat-ne1-api.azurewebsites.net.ico",
     "slug": "uat-portal-backend",
     "status": "down",
-    "uptime": "3.33%",
-    "uptimeDay": "3.33%",
-    "uptimeWeek": "3.33%",
-    "uptimeMonth": "3.33%",
-    "uptimeYear": "3.33%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 446,
     "timeDay": 446,
     "timeWeek": 446,
     "timeMonth": 446,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2025-12-05": 0
+      "2025-12-05": 218
     }
   },
   {
@@ -101,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wlb-uat-ne1-api.azurewebsites.net.ico",
     "slug": "uat-portal-performance-test",
     "status": "down",
-    "uptime": "5.46%",
-    "uptimeDay": "5.46%",
-    "uptimeWeek": "5.46%",
-    "uptimeMonth": "5.46%",
-    "uptimeYear": "5.46%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 94,
     "timeDay": 94,
     "timeWeek": 94,
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2025-12-05": 0
+      "2025-12-05": 218
     }
   },
   {
