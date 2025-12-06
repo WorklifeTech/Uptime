@@ -4,12 +4,12 @@
     "url": "https://cal.howdy.care",
     "icon": "https://icons.duckduckgo.com/ip3/cal.howdy.care.ico",
     "slug": "cal-com-howdy",
-    "status": "up",
-    "uptime": "90.99%",
-    "uptimeDay": "90.99%",
-    "uptimeWeek": "90.99%",
-    "uptimeMonth": "90.99%",
-    "uptimeYear": "90.99%",
+    "status": "down",
+    "uptime": "91.46%",
+    "uptimeDay": "91.46%",
+    "uptimeWeek": "91.46%",
+    "uptimeMonth": "91.46%",
+    "uptimeYear": "91.46%",
     "time": 6466,
     "timeDay": 6466,
     "timeWeek": 6466,
@@ -37,7 +37,7 @@
     "timeMonth": 438,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2025-12-06": 169,
+      "2025-12-06": 217,
       "2025-12-05": 639
     }
   },
@@ -58,7 +58,7 @@
     "timeMonth": 83,
     "timeYear": 83,
     "dailyMinutesDown": {
-      "2025-12-06": 169,
+      "2025-12-06": 217,
       "2025-12-05": 639
     }
   },
@@ -97,7 +97,7 @@
     "timeMonth": 475,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2025-12-06": 169,
+      "2025-12-06": 217,
       "2025-12-05": 639
     }
   },
@@ -118,7 +118,7 @@
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2025-12-06": 169,
+      "2025-12-06": 217,
       "2025-12-05": 638
     }
   },
