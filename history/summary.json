@@ -4,19 +4,19 @@
     "url": "https://cal.howdy.care",
     "icon": "https://icons.duckduckgo.com/ip3/cal.howdy.care.ico",
     "slug": "cal-com-howdy",
-    "status": "down",
-    "uptime": "26.65%",
-    "uptimeDay": "7.37%",
-    "uptimeWeek": "26.65%",
-    "uptimeMonth": "26.65%",
-    "uptimeYear": "26.65%",
-    "time": 5036,
-    "timeDay": 1958,
-    "timeWeek": 5036,
-    "timeMonth": 5036,
-    "timeYear": 5036,
+    "status": "up",
+    "uptime": "26.43%",
+    "uptimeDay": "6.38%",
+    "uptimeWeek": "26.43%",
+    "uptimeMonth": "26.43%",
+    "uptimeYear": "26.43%",
+    "time": 4572,
+    "timeDay": 1643,
+    "timeWeek": 4572,
+    "timeMonth": 4572,
+    "timeYear": 4572,
     "dailyMinutesDown": {
-      "2025-12-08": 183,
+      "2025-12-08": 216,
       "2025-12-07": 1345,
       "2025-12-06": 1253,
       "2025-12-05": 48
@@ -39,7 +39,7 @@
     "timeMonth": 696,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2025-12-08": 275,
+      "2025-12-08": 307,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 639
@@ -62,7 +62,7 @@
     "timeMonth": 285,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2025-12-08": 275,
+      "2025-12-08": 307,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 639
@@ -103,7 +103,7 @@
     "timeMonth": 536,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2025-12-08": 275,
+      "2025-12-08": 307,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 639
@@ -126,7 +126,7 @@
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-12-08": 275,
+      "2025-12-08": 307,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 638
