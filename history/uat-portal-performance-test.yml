@@ -1,7 +1,7 @@
 url: https://wlb-uat-ne1-api.azurewebsites.net/api/ping/performance
 status: down
 code: 401
-responseTime: 93
-lastUpdated: 2026-03-09T23:08:29.218Z
+responseTime: 77
+lastUpdated: 2026-03-10T23:08:42.199Z
 startTime: 2025-12-05T13:21:29.296Z
 generator: Upptime <https://github.com/upptime/upptime>
