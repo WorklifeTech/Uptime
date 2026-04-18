@@ -1,7 +1,7 @@
 url: https://cal.howdy.care
-status: up
-code: 200
-responseTime: 887
-lastUpdated: 2026-04-17T23:16:00.082Z
+status: down
+code: 502
+responseTime: 400
+lastUpdated: 2026-04-18T02:21:26.678Z
 startTime: 2025-12-05T12:15:57.077Z
 generator: Upptime <https://github.com/upptime/upptime>
