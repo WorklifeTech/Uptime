@@ -4,9 +4,9 @@
     "url": "https://cal.howdy.care",
     "icon": "https://icons.duckduckgo.com/ip3/cal.howdy.care.ico",
     "slug": "cal-com-howdy",
-    "status": "up",
+    "status": "down",
     "uptime": "98.21%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "98.21%",
@@ -16,6 +16,7 @@
     "timeMonth": 1312,
     "timeYear": 1531,
     "dailyMinutesDown": {
+      "2026-06-10": 0,
       "2026-06-06": 23,
       "2026-05-12": 51,
       "2026-05-01": 89,
@@ -45,7 +46,7 @@
     "timeMonth": 565,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2026-06-10": 47,
+      "2026-06-10": 395,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -252,7 +253,7 @@
     "timeMonth": 109,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2026-06-10": 47,
+      "2026-06-10": 395,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -477,7 +478,7 @@
     "timeMonth": 467,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2026-06-10": 47,
+      "2026-06-10": 395,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -684,7 +685,7 @@
     "timeMonth": 109,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2026-06-10": 47,
+      "2026-06-10": 395,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
